@@ -72,4 +72,3 @@ entryPoint.setAspect(aspect)
 
 // 3.must export it
 export { execute, allocate }
-
